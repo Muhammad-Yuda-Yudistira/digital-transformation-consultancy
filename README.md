@@ -6,7 +6,7 @@ website jasa consultansi untuk mengubah bisnis klien menjadi digitalisasi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-Github-pages(https://muhammad-yuda-yudistira.github.io/digital-transformation-consultancy/)
+![Github-pages](https://muhammad-yuda-yudistira.github.io/digital-transformation-consultancy/)
 
 ![GitHub-Pages](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
