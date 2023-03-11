@@ -143,6 +143,9 @@ body {
     background-image: url(assets/imgs/bg/bg.jpg);
     background-size: cover;
 }
+.about {
+    overflow-x: hidden;
+}
 .about, .service, .experience, .responsibility, .contact {
     height: 100vh;
     text-align: center;
@@ -162,7 +165,8 @@ h1 {
     background-color: rgba(255,255,255,.1);
 }
 .about {
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
+    width:66vw;
 }
 .about h1, .about p {
     opacity:0;
